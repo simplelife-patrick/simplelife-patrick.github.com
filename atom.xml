@@ -4,7 +4,7 @@
   <title><![CDATA[Simplelife Studio's Blog]]></title>
   <link href="http://simplelife-patrick.github.io/atom.xml" rel="self"/>
   <link href="http://simplelife-patrick.github.io/"/>
-  <updated>2013-08-09T06:07:41+08:00</updated>
+  <updated>2013-08-09T06:41:15+08:00</updated>
   <id>http://simplelife-patrick.github.io/</id>
   <author>
     <name><![CDATA[Simplelife Studio]]></name>
@@ -14,10 +14,19 @@
 
   
   <entry>
-    <title type="html"><![CDATA[博客开张大吉]]></title>
-    <link href="http://simplelife-patrick.github.io/blog/2013/08/08/bo-ke-kai-zhang-da-ji/"/>
+    <title type="html"><![CDATA[博客正式开启评论功能]]></title>
+    <link href="http://simplelife-patrick.github.io/blog/2013/08/09/bo-ke-kai-qi-ping-lun-gong-neng/"/>
+    <updated>2013-08-09T06:36:00+08:00</updated>
+    <id>http://simplelife-patrick.github.io/blog/2013/08/09/bo-ke-kai-qi-ping-lun-gong-neng</id>
+    <content type="html"><![CDATA[<p>博客开启基于<a href="http://duoshuo.com">多说</a>提供的评论系统。</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[博客开张]]></title>
+    <link href="http://simplelife-patrick.github.io/blog/2013/08/08/blog-opened/"/>
     <updated>2013-08-08T21:14:00+08:00</updated>
-    <id>http://simplelife-patrick.github.io/blog/2013/08/08/bo-ke-kai-zhang-da-ji</id>
+    <id>http://simplelife-patrick.github.io/blog/2013/08/08/blog-opened</id>
     <content type="html"><![CDATA[
 ]]></content>
   </entry>

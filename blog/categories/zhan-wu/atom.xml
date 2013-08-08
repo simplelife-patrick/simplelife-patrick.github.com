@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[Patrick Deng's Blog]]></title>
-  <link href="http://simplelife-patrick.github.io/atom.xml" rel="self"/>
+  <title><![CDATA[Category: 站务 | Patrick Deng's Blog]]></title>
+  <link href="http://simplelife-patrick.github.io/blog/categories/zhan-wu/atom.xml" rel="self"/>
   <link href="http://simplelife-patrick.github.io/"/>
   <updated>2013-08-08T21:27:44+08:00</updated>
   <id>http://simplelife-patrick.github.io/</id>

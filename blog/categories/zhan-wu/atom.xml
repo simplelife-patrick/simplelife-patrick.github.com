@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[Simplelife Studio's Blog]]></title>
-  <link href="http://simplelife-patrick.github.io/atom.xml" rel="self"/>
+  <title><![CDATA[Category: 站务 | Simplelife Studio's Blog]]></title>
+  <link href="http://simplelife-patrick.github.io/blog/categories/zhan-wu/atom.xml" rel="self"/>
   <link href="http://simplelife-patrick.github.io/"/>
   <updated>2013-08-09T09:36:21+08:00</updated>
   <id>http://simplelife-patrick.github.io/</id>
